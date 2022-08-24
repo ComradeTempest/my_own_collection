@@ -2,4 +2,4 @@
 - name: testrole playbook
   hosts: localhost
   roles:
-    - my_own_namespace.yandex_cloud_cvl.testrole
+    - my_own_namespace.yandex_cloud_elk.testrole
